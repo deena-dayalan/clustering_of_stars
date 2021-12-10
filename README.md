@@ -1,1 +1,1 @@
-# stellar_classification_of_stars
+# stellar_clustering_of_stars
